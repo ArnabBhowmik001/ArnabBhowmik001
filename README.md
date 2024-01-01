@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Java projects**
 
-- 💬 Ask me about **Springboot**
+- 💬 Ask me about **Springboot, Java, JavaScript**
 
 - 📫 How to reach me **13anabbhowmik@gmail.com**
 
